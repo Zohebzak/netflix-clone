@@ -5,6 +5,7 @@
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// 2.
 export const firebaseConfig = {
   apiKey: "AIzaSyAx0Y2H4Rz_cA3uSbtkII_6tlTIO6UiZms",
   authDomain: "netflix-new-791e2.firebaseapp.com",
